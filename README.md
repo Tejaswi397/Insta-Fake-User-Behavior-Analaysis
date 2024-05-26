@@ -1,4 +1,4 @@
-### Instagram-Fake-User-Behavior-Analysis Project
+# Instagram-Fake-User-Behavior-Analysis Project
 The aim of this project is to build and train the dataset using various machine learning algorithms, evaluate their accuracy, and perform detailed metrics analysis. The goal is to identify the best model based on F1-score and recall.
 
 ## Introduction:
