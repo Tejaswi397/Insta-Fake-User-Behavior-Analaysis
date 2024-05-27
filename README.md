@@ -27,4 +27,6 @@ S.No	Feature Name	Description	Type	Example
 
 Through a quick data inspection, it was possible to see that the train set consists of 628 samples, while the test set consists of 157 samples. Both sets have the same 13 attributes. 
 
-##
+## Exploratory Data Analaysis
+## Comparsion Between Business Account and Personal Account
+https://github.com/Tejaswi397/Insta-Fake-User-Behavior-Analaysis/assets/115448356/a674d6cd-739e-47a9-9119-f4d7259f711c"
