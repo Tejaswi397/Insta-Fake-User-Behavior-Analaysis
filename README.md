@@ -28,6 +28,38 @@ S.No	Feature Name	Description	Type	Example
 Through a quick data inspection, it was possible to see that the train set consists of 628 samples, while the test set consists of 157 samples. Both sets have the same 13 attributes. 
 
 ## Exploratory Data Analaysis
-## Comparsion Between Business Account and Personal Account
-https://github.com/Tejaswi397/Insta-Fake-User-Behavior-Analaysis/assets/115448356/a674d6cd-739e-47a9-9119-f4d7259f711c
-"Picture1"
+### Comparsion Between Business Account and Personal Account
+<img width="498" alt="Picture1" src="https://github.com/Tejaswi397/Insta-Fake-User-Behavior-Analaysis/assets/115448356/a674d6cd-739e-47a9-9119-f4d7259f711c">
+
+### Fake or not fake
+<img width="468" alt="Picture2" src="https://github.com/Tejaswi397/Insta-Fake-User-Behavior-Analaysis/assets/115448356/2391cdb5-3e6a-4fe4-b59d-9198d25b0ee0">
+
+## Predictive Analysis
+For building the prediction model, we need to first make the data suitable for the application of the algorithms. Here is the detailed explanation of the steps followed:
+### Data Preparation(Data Cleaning and Exploration):
+ 1. Dealing with null values and missing values like is.na() to check them
+ 2. Using functions to get familiar with data like info(), describe(), value_counts()
+
+## Data Pre-Processing and Training the Model:-
+The feature data (`x_train` and `x_test`) are standardized using `StandardScaler` from `sklearn.preprocessing`. Standardization ensures that all features have a mean of zero and a standard deviation of one, which is important for many machine learning algorithms to perform optimally.
+
+## Implementing the ML Algorithms:
+Implementing the classification Alogrithms and also used SMOTE oversampling technique to rebalance the classes.
+
+## Measuring the Performance of the model:
+ 1.  Using Confusion Matrix: "Compares true value with predicted value"
+ 2.   Acheived Accuracy of 0.96 (96%) xand used different classification report.
+    
+## Results:
+<img width="479" alt="Picture3" src="https://github.com/Tejaswi397/Insta-Fake-User-Behavior-Analaysis/assets/115448356/dd4057fa-961d-4ad6-8905-6f14732da008">
+Based on the results every model has performed best, where as Logisitic Regression and Random Forest using GridSearch CV has shown the best mertics. 
+
+
+
+
+
+
+
+
+
+
