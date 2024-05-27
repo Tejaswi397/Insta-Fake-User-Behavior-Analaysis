@@ -29,4 +29,5 @@ Through a quick data inspection, it was possible to see that the train set consi
 
 ## Exploratory Data Analaysis
 ## Comparsion Between Business Account and Personal Account
-https://github.com/Tejaswi397/Insta-Fake-User-Behavior-Analaysis/assets/115448356/a674d6cd-739e-47a9-9119-f4d7259f711c"
+https://github.com/Tejaswi397/Insta-Fake-User-Behavior-Analaysis/assets/115448356/a674d6cd-739e-47a9-9119-f4d7259f711c
+"Picture1"
