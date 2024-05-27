@@ -52,6 +52,7 @@ Implementing the classification Alogrithms and also used SMOTE oversampling tech
     
 ## Results:
 <img width="479" alt="Picture3" src="https://github.com/Tejaswi397/Insta-Fake-User-Behavior-Analaysis/assets/115448356/dd4057fa-961d-4ad6-8905-6f14732da008">
+
 Based on the results every model has performed best, where as Logisitic Regression and Random Forest using GridSearch CV has shown the best mertics. 
 
 
